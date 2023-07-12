@@ -1,0 +1,92 @@
+[
+    {
+        "Id": 0,
+        "Name": "Default",
+        "Planet": 0,
+        "OrbitPeriod": 0,
+        "AxisPeriod": 0,
+        "AxisIncline": 0,
+        "DistanceToSun": 0
+    },
+    {
+        "Id": 1,
+        "Name": "Mercury",
+        "Planet": 1,
+        "OrbitPeriod": 87.97,
+        "AxisPeriod": 58.8,
+        "AxisIncline": 7,
+        "DistanceToSun": 57910000
+    },
+    {
+        "Id": 2,
+        "Name": "Venus",
+        "Planet": 2,
+        "OrbitPeriod": 224.7,
+        "AxisPeriod": 243,
+        "AxisIncline": 3.24,
+        "DistanceToSun": 108200000
+    },
+    {
+        "Id": 3,
+        "Name": "Earth",
+        "Planet": 3,
+        "OrbitPeriod": 365.2564,
+        "AxisPeriod": 1,
+        "AxisIncline": 23.26,
+        "DistanceToSun": 149600000
+    },
+    {
+        "Id": 4,
+        "Name": "Mars",
+        "Planet": 4,
+        "OrbitPeriod": 686.2,
+        "AxisPeriod": 1.015,
+        "AxisIncline": 25.12,
+        "DistanceToSun": 227900000
+    },
+    {
+        "Id": 5,
+        "Name": "Jupiter",
+        "Planet": 5,
+        "OrbitPeriod": 4328.9,
+        "AxisPeriod": 0.39,
+        "AxisIncline": 3.7,
+        "DistanceToSun": 778500000
+    },
+    {
+        "Id": 6,
+        "Name": "Saturn",
+        "Planet": 6,
+        "OrbitPeriod": 10752.9,
+        "AxisPeriod": 0.42,
+        "AxisIncline": 26.45,
+        "DistanceToSun": 1429000000
+    },
+    {
+        "Id": 7,
+        "Name": "Uranus",
+        "Planet": 7,
+        "OrbitPeriod": 30667.3,
+        "AxisPeriod": 0.43,
+        "AxisIncline": 82,
+        "DistanceToSun": 2875000000
+    },
+    {
+        "Id": 8,
+        "Name": "Neptune",
+        "Planet": 8,
+        "OrbitPeriod": 61239.7,
+        "AxisPeriod": 0.64,
+        "AxisIncline": 29,
+        "DistanceToSun": 4497000000
+    },
+    {
+        "Id": 9,
+        "Name": "Pluto",
+        "Planet": 9,
+        "OrbitPeriod": 90552.85,
+        "AxisPeriod": 0.64,
+        "AxisIncline": 17,
+        "DistanceToSun": 5913000000
+    }
+]
